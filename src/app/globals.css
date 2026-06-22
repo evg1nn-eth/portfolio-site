@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #ffffff;
+  --text: #000000;
+  --text-body: #4D4D4D;
+  --text-muted: #999999;
+  --border: rgba(0, 0, 0, 0.08);
+}
+
+html, body {
+  background-color: var(--bg) !important;
+  color: var(--text);
+  font-weight: 350;
+  text-wrap: pretty;
+}
