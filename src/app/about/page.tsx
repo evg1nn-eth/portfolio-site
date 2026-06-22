@@ -82,7 +82,7 @@ export default function About() {
 
       {/* Photo */}
       <motion.div
-        className="w-full rounded-2xl overflow-hidden mb-8"
+        className="w-full rounded-2xl overflow-hidden mb-8 cursor-pointer"
         variants={fadeUp}
         transition={{ duration: 0.7, ease: [0.25, 0.1, 0.25, 1] }}
         onClick={() => setLightbox(true)}

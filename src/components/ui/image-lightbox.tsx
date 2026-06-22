@@ -72,7 +72,7 @@ export function ImageLightbox({
   return (
     <LayoutGroup>
       <motion.div
-        className={className}
+        className={`${className} cursor-pointer`}
         onClick={() => setOpen(true)}
         layoutId={id}
         layout
