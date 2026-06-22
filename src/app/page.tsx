@@ -68,7 +68,7 @@ export default function Home() {
           <a href="https://t.me/evg1nn" target="_blank" rel="noopener noreferrer" className="hover:underline underline-offset-4 decoration-[0.75px]" style={{ color: "var(--text-body)" }}>
             Telegram
           </a>
-          <a href="#" className="hover:underline underline-offset-4 decoration-[0.75px]" style={{ color: "var(--text-body)" }}>
+          <a href="https://drive.google.com/file/d/1xZrzkzluX6KQTwAjJoLr36MSfrVPyxeT/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="hover:underline underline-offset-4 decoration-[0.75px]" style={{ color: "var(--text-body)" }}>
             CV
           </a>
         </motion.div>
